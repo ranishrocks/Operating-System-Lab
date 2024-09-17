@@ -60,5 +60,5 @@ To run the program, follow these steps:
 ## Contributions
 
 Feel free to fork the project and submit pull requests if you'd like to contribute to improving the LRTF scheduling implementation.
+![Drawing 2024-09-17 11 20 10 excalidraw](https://github.com/user-attachments/assets/5e8277f8-72cd-45c3-a7ff-70b2702cb843)
 
-![Drawing 2024-09-17 11 20 10 excalidraw](https://github.com/user-attachments/assets/162aa8e5-d614-4367-8e0d-f7713778ba12)
